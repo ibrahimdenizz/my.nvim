@@ -1,2 +1,2 @@
 require("custom.configs.themes")
-require('custom.configs.keyma')
+require('custom.configs.keymap')
